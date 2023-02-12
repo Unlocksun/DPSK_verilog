@@ -17,3 +17,6 @@ vivado版本：2020.1
 ![png1](./demodulation.png)  
 
 之后对costas环的解调输出进行数字锁位同步，并进行差分译码，最终得到解调信号。
+### 天线收发设置
+
+![png1](./dpsk_AD9361.PNG)  
